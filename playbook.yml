@@ -23,3 +23,9 @@
         name: jenkins
         state: started
         enabled: true
+
+#  [jenkins] this is a inventory file of ansible 
+# <EC2_INSTANCE_PUBLIC_IP> ansible_user=ubuntu ansible_ssh_private_key_file=~/.ssh/your-key-pair.pem
+
+
+
